@@ -1,0 +1,13 @@
+# Core numerical stack
+numpy>=1.24
+pandas>=2.2
+
+# Optimisation & econometrics
+scipy>=1.11
+statsmodels>=0.14
+
+# Plotting
+matplotlib>=3.8
+
+# Date parsing (pulled in by pandas but stated explicitly)
+python-dateutil>=2.8
